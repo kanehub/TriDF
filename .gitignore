@@ -1,0 +1,9 @@
+exp/
+exp*/
+data/
+checkpoint/
+__pycache__/
+.idea/
+sfm/runs/
+
+*.ipynb

@@ -1,0 +1,34 @@
+Config.expname = 'None'
+
+Config.data_path = r'./data'
+
+Config.sampler_type = 0
+Config.render_n_samples = 64
+
+Config.batch_size = 1024
+
+Config.keypoint_weight = 0.001
+Config.keypoint_iters = 10000
+
+Config.kpts_weight_type = 'L2'
+
+Config.use_smoothness = True
+Config.smoothness_iters = 10000
+Config.depth_smooth_weight = 1.0
+
+Smoother.depth_type = 'inverse_depth'
+Smoother.patch_size = 16
+Smoother.down_scale = 4
+
+Config.initial_ckpt = False
+
+Config.no_reload = True
+
+Config.i_img = 1000
+Config.n_iters = 30000
+Config.lr = 1e-4
+
+Config.torch_seed = 666
+Config.np_seed = 999
+Config.torch_cuda_seed = 666
+

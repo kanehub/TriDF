@@ -1,0 +1,10 @@
+Config.expname = 'scene_015'
+
+Config.scene_id = 'scene_015'
+Config.bounds = [55.0, 85.0]
+Config.occ_aabb = 60
+
+
+
+
+
