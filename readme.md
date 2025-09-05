@@ -23,9 +23,9 @@
 <br>
 <br>
 
-[![GitHub stars](https://badgen.net/github/stars/KyanChen/TTP)](https://github.com/KyanChen/TTP)
+[![GitHub stars](https://badgen.net/github/stars/kanehub/TriDF)](https://github.com/kanehub/TriDF)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2410.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2410.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.13347-b31b1b.svg)](https://arxiv.org/abs/2503.13347)
 
 <br>
 <br>
